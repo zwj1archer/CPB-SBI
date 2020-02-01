@@ -1,4 +1,4 @@
-# CPB-superpixel
+# CPB+superpixel
 This apprach is proposed by Dr.ZHOU Wen-jun, it is for background initialization based on CPB+superpixel.
 
 The files includ two parts: 1) CPB; 2) Background Initialization.
