@@ -15,7 +15,7 @@ Motion mask: 'mask.m' is for motion detection from the result of foregound detec
 Background initialization: 'Backgroundinitialization.m' for final background generation by initial model of CPB.
 
 
-If you need to use it for testing you own algorithm, please feel free to download it.
+If you need to use it for testing your own algorithm, please feel free to download it.
 
 If you plan to use it in your paper, please tell us in advance.
 
