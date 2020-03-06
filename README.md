@@ -21,4 +21,4 @@ If you plan to use it in your paper, please tell us in advance.
 
 Thank you.
 
-Jan.1,2020
+Jan.1, 2020
