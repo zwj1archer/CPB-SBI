@@ -1,12 +1,12 @@
 # CPB-Scene Background Initialization (SBI)
-This apprach is proposed by Dr.ZHOU Wen-jun, it is for background initialization based on CPB+superpixel.
+This apprach is proposed by Dr.ZHOU Wen-jun, it is for background initialization based on CPB.
 
 The files includ two parts: 1) CPB; 2) Background Initialization.
 For CPB, please check the link: https://github.com/zwj1archer/CPB.git
 
 For Backgroud Initialization by CPB:
 
-The code was realized by Dr.ZHOU Wen-jun(zhouwenjun@swpu.edu.cn) in Image Processing and Parallel Computing Laboratory, School of Computer Science, Southwest Petroleum University, China.
+The code was realized by Dr.ZHOU Wen-jun(zhouwenjun@swpu.edu.cn) and Mr. DENG YU-heng(dengyuhengSWPU@outlook.com) in Image Processing and Parallel Computing Laboratory, School of Computer Science, Southwest Petroleum University, China.
 
 This code includes three parts: 1) Superpixel segmentation; 2) Motion mask; 3) Background initialization;
 
@@ -21,4 +21,4 @@ If you plan to use it in your paper, please tell us in advance.
 
 Thank you.
 
-Oct.12, 2020
+Oct.20, 2020
