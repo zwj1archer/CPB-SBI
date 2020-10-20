@@ -6,7 +6,7 @@ For CPB, please check the link: https://github.com/zwj1archer/CPB.git
 
 For Backgroud Initialization by CPB:
 
-The code was realized by Dr.ZHOU Wen-jun(zhouwenjun@swpu.edu.cn) and Mr. DENG YU-heng(dengyuhengSWPU@outlook.com) in Image Processing and Parallel Computing Laboratory, School of Computer Science, Southwest Petroleum University, China.
+The code was realized by Dr.ZHOU Wen-jun (zhouwenjun@swpu.edu.cn) and Mr.DENG YU-heng (dengyuhengSWPU@outlook.com) in Image Processing and Parallel Computing Laboratory, School of Computer Science, Southwest Petroleum University, China.
 
 This code includes three parts: 1) Superpixel segmentation; 2) Motion mask; 3) Background initialization;
 
